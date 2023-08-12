@@ -1,0 +1,7 @@
+@import '../../vendor/filament/filament/resources/css/app.css';
+
+@font-face {
+	font-family: "ttinterfacesRegular";
+	src: url("../fonts/TTInterfaces-Regular.ttf");
+	font-weight: 400;
+  }

@@ -1,0 +1,4 @@
+- Usar secciones de plantilla nueva TIVO y poner imagenes de la app y textos como "reconocedor de CVS", etc con fotos/video de la app
+
+
+2- Terminar de pulir la relacion entre los 3 modelos applicant, job_posting y user. No esta saliendo bien
